@@ -1,0 +1,13 @@
+**KALE Price Tracker**
+
+KALE Price Tracker is a Python-based tool designed for the Stellar Hacks: KALE x Reflector hackathon. It fetches real-time KALE token prices using the Stellar Testnet Horizon API, integrated with the Reflector oracle, leveraging the official KALE issuing key (GCHPTWXMT3HYF4RLZHWBNRF4MPXLTJ76ISHMSYIWCCDXWUYOQG5MR2AB). The tool outputs prices to the console, logs them to `kale_price_log.txt`, and visualizes trends via a `matplotlib` graph. To ensure demo reliability, it includes fallbacks to CSV (`test_prices.csv`) and hard-coded data when Testnet trades are unavailable. This MVP demonstrates a practical price oracle for DeFi applications on Stellar, with potential for UI enhancements, multi-asset tracking, or smart contract integration.
+
+**Key Features**:
+- Fetches KALE prices from Stellar Testnet using `stellar-sdk` v13.0.0.
+- Logs price history with timestamps for transparency.
+- Visualizes price trends with a dynamic graph.
+- Robust fallbacks (CSV and hard-coded data) for consistent demos.
+- Built for extensibility to support advanced DeFi use cases.
+
+**Relevance**:
+The project aligns with the hackathon’s focus on Reflector integration by simulating a price oracle for KALE, ready for production use with minimal modifications.
