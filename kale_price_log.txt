@@ -1,0 +1,59 @@
+2025-08-31 17:05:00,118 - Error fetching price: No columns to parse from file
+2025-08-31 17:05:10,268 - Error fetching price: No columns to parse from file
+2025-08-31 17:05:20,416 - Error fetching price: No columns to parse from file
+2025-08-31 17:05:30,570 - Error fetching price: No columns to parse from file
+2025-08-31 17:05:40,717 - Error fetching price: No columns to parse from file
+2025-08-31 17:05:50,867 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:01,019 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:11,174 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:21,320 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:31,466 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:41,620 - Error fetching price: No columns to parse from file
+2025-08-31 17:06:51,778 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:01,926 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:12,079 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:22,233 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:32,380 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:42,529 - Error fetching price: No columns to parse from file
+2025-08-31 17:07:52,932 - Error fetching price: No columns to parse from file
+2025-08-31 17:08:03,080 - Error fetching price: No columns to parse from file
+2025-08-31 17:08:13,229 - Error fetching price: No columns to parse from file
+2025-08-31 17:08:23,375 - Error fetching price: No columns to parse from file
+2025-08-31 17:09:21,224 - CSV error: No columns to parse from file
+2025-08-31 17:09:31,371 - CSV error: No columns to parse from file
+2025-08-31 17:09:41,519 - CSV error: No columns to parse from file
+2025-08-31 17:09:51,666 - CSV error: No columns to parse from file
+2025-08-31 17:10:01,828 - CSV error: No columns to parse from file
+2025-08-31 17:10:11,978 - CSV error: No columns to parse from file
+2025-08-31 17:10:22,127 - CSV error: No columns to parse from file
+2025-08-31 17:10:32,275 - CSV error: No columns to parse from file
+2025-08-31 17:10:42,427 - CSV error: No columns to parse from file
+2025-08-31 17:10:52,574 - CSV error: No columns to parse from file
+2025-08-31 17:11:02,728 - CSV error: No columns to parse from file
+2025-08-31 17:11:12,876 - CSV error: No columns to parse from file
+2025-08-31 17:11:23,022 - CSV error: No columns to parse from file
+2025-08-31 17:11:33,169 - CSV error: No columns to parse from file
+2025-08-31 17:11:43,316 - CSV error: No columns to parse from file
+2025-08-31 17:11:53,462 - CSV error: No columns to parse from file
+2025-08-31 17:12:03,608 - CSV error: No columns to parse from file
+2025-08-31 17:12:13,753 - CSV error: No columns to parse from file
+2025-08-31 17:12:23,904 - CSV error: No columns to parse from file
+2025-08-31 17:12:34,079 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:12:44,228 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:13:37,841 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:13:47,992 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:13:58,143 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:14:08,291 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:14:18,440 - KALE Price (from CSV): 0.092 USD
+2025-08-31 17:14:19,792 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-31 17:14:19,794 - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-08-31 18:52:42,034 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:52:52,203 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:53:02,354 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:53:12,504 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:53:22,651 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:55:02,639 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:58:26,125 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:58:58,907 - KALE Price (from CSV): 0.092 USD
+2025-08-31 18:59:14,290 - KALE Price (from CSV): 0.092 USD
+2025-08-31 19:00:43,012 - KALE Price (from CSV): 0.092 USD
